@@ -539,10 +539,6 @@ Console.WriteLine($"22. Kitap Adı: {okumaListem[21].kitabinAdi}");
 Console.WriteLine($"22. Kitap Yazarı: {okumaListem[21].kitabinYazarininAdi}");
 Console.WriteLine($"22. Kitap Sayfa Sayısı: {okumaListem[21].kitabinSayfaSayisi}\n");
                     
-Console.WriteLine($"23. Kitap Adı: {okumaListem[22].kitabinAdi}");
-Console.WriteLine($"23. Kitap Yazarı: {okumaListem[22].kitabinYazarininAdi}");
-Console.WriteLine($"23. Kitap Sayfa Sayısı: {okumaListem[22].kitabinSayfaSayisi}\n");
-                    
 Console.WriteLine($"24. Kitap Adı: {okumaListem[23].kitabinAdi}");
 Console.WriteLine($"24. Kitap Yazarı: {okumaListem[23].kitabinYazarininAdi}");
 Console.WriteLine($"24. Kitap Sayfa Sayısı: {okumaListem[23].kitabinSayfaSayisi}\n");
